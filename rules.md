@@ -1,21 +1,15 @@
-**0)** Staff advisement is to be followed at all times - please listen first and follow up in a DM or using @StaffModMail#9002 if you want clarification.
+**0)** Follow staff advisement at all times.
 
-**1)** Be civil and professional. Personal attacks, harassment, and hate speech will not be tolerated.
+**1)** Be civil. Personal attacks, harassment, and hate speech will not be tolerated.
 
-**2)** This is a safe for work (SFW) guild. Pornographic and extremist content is strictly forbidden. Other types of not safe for work (NSFW) content can be posted in the off-topic channels with an explicit warning and spoiler tag. As an example, this includes, but it is not limited to: video games/movie trailers with overly racy and/or violent content.
+**2)** Pornographic content is strictly forbidden. Content should be safe for work, any not safe for work content should adhere to the Discord Code of Conduct, linked above, spoilered and marked as NSFW in the channel it is being posted in.
 
-**3)** Posts that offer monetary gain or financial compensation are not allowed, regardless of intent. This includes referral links, job postings, offers of money for help and as thanks for any help received.
+**3)** Posts offering money for help, referral links or job postings are not allowed.
 
-**4)** Discussion of security topics is up to the discretion of staff. Please be mindful of how you phrase your question (e.g. “How can I protect my web app from SQL injection?” is ok, but “What kind of input could break my web app?” is not).
+**4)** Any activity that may endanger your life or lead to your physical harm is forbidden.
 
-**5)** Unsolicited pings or spam to members with any `Verified` role are not allowed.
-
-**6)** Using the member list of this guild to target users' private messages in order to break rules is forbidden.
-
-**7)** The following topics are not to be discussed anywhere in the guild:
+**5)** The following should not be discussed anywhere:
     - Politics
     - Gender politics
-    - Pornographic content
-    - Extremist content
-    - Breaking of Discord terms of service
+    - Breaking of Discord ToS
     - Malicious hacking, exploiting, piracy or unauthorized distribution
